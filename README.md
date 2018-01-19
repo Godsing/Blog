@@ -1,3 +1,5 @@
-# Hello-GitHub
-Test
-这是我的第一次尝试，现在已经凌晨0点，我要睡了，改天再开启github之旅！
+# My Blog
+欢迎访问 [我的博客](https://godsing.github.io) !
+
+或者点击/复制链接进入：https://godsing.top 
+
