@@ -1,7 +1,10 @@
 ---
 title: Ubuntu解压缩与文件(名/内容)乱码解决方案
 date: 2018-01-31
-tags: 压缩 乱码
+tags: 
+- Linux
+- 解压
+- 乱码
 ---
 
 我的另一篇笔记：<a href="https://godsing.top/2018/01/21/%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E9%9B%86%E7%BC%96%E7%A0%81GB2312%E3%80%81GBK(CP936)%E3%80%81GB18030/">中文编码知识</a>
