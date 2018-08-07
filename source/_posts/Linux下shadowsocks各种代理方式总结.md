@@ -8,9 +8,7 @@ tags: [Linux, socks, shadowsocks, 代理, 科学上网]
 
 本文算是一篇总结，把使用 shadowsocks无GUI客户端 的各种常见的代理方式梳理一遍，给有需要的人，避免走同样的弯路。以下是本文的预备条件：
 
-- Ubuntu 16.04 系统
-
-- 可以上网（罗嗦...）
+- Linux 系统（本文用的是 Ubuntu 16.04）
 
 - 已有 shadowsocks 帐号。获取免费帐号/自行搭建shadowsocks服务端 可以参考：
 
@@ -471,13 +469,14 @@ ValueError: Unable to determine SOCKS version from socks://127.0.0.2:1080/
 
 ## Reference
 
-[Linux安装配置Shadowsocks客户端及开机自动启动](https://blog.huihut.com/2017/08/25/LinuxInstallConfigShadowsocksClient/)
+1. [Linux安装配置Shadowsocks客户端及开机自动启动](https://blog.huihut.com/2017/08/25/LinuxInstallConfigShadowsocksClient/)
 
-[ubuntu16.04LTS+shadowsocks+proxychains全局访问](http://zheng-zy.github.io/posts/30918/)
+2. [ubuntu16.04LTS+shadowsocks+proxychains全局访问](http://zheng-zy.github.io/posts/30918/)
 
-[Ubuntu系统下浏览器和终端的SS代理配置](https://blog.csdn.net/Jesse_Mx/article/details/52863204)
+3. [Ubuntu系统下浏览器和终端的SS代理配置](https://blog.csdn.net/Jesse_Mx/article/details/52863204)
 
-[让 pip 走代理](https://www.logcg.com/archives/1914.html)
+4. [让 pip 走代理](https://www.logcg.com/archives/1914.html)
 
-[ubuntu开启http和socks全局代理测试与检验](http://govfate.iteye.com/blog/2069022)
+5. [ubuntu开启http和socks全局代理测试与检验](http://govfate.iteye.com/blog/2069022)
+
 
